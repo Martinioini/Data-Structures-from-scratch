@@ -1,3 +1,0 @@
-/home/alessandro/Desktop/dsa/Data-Structures-from-scratch/build/CMakeFiles/test_dynamic_array.dir
-/home/alessandro/Desktop/dsa/Data-Structures-from-scratch/build/CMakeFiles/edit_cache.dir
-/home/alessandro/Desktop/dsa/Data-Structures-from-scratch/build/CMakeFiles/rebuild_cache.dir
