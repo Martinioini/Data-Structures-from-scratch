@@ -1,0 +1,1 @@
+This repository contains a series of implementations of essential C++ data structures, rewritten entirely from scratch as part of a structured review of the language. The goal is to strengthen understanding of C++ syntax, memory management, and programming patterns by recreating practical examples used in real-world systems.
